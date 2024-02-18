@@ -21,4 +21,5 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <p align="left"> <img src="https://medium.com/gopenai/chatgpt-with-flutter-app-3c20b2c5ed74&label=Profile%20views&color=0e75b6&style=flat" alt="ChatGpt with Flutter App" /> </p>
+<p align="left"> <img src="https://medium.com/@chandanpradhanbxr/flutter-bloc-architecture-6c6521cc8364&label=Profile%20views&color=0e75b6&style=flat" alt="Flutter Bloc Architecture" /> </p>
 <!-- BLOG-POST-LIST:END -->
